@@ -1,2 +1,2 @@
 #!/bin/bash
-tr '.' '_'
+tr 'Z' 'e'
